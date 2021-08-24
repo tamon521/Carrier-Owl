@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:hep-ph.* OR cat:physics.*'
+subject: 'cat:hep-th.* OR cat:physics.* OR cat:math-ph.* OR cat:astro-ph.*'
 
 # 検索キーワード
 keywords:
