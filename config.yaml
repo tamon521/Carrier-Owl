@@ -1,10 +1,15 @@
 # arxivの学問領域の指定
-subject: 'cat:hep-th.* OR cat:physics.* OR cat:math-ph.* OR cat:astro-ph.*'
+subject: 'cat:hep-th OR cat:physics.space-ph OR cat:math-ph OR cat:astro-ph.* OR cat:gr-qc OR cat:quant-ph'
 
 # 検索キーワード
 keywords:
-        black hole: 3
-        black holes: 3
+        black hole: 5
+        black holes: 5
+        primordial black holes: 2
+        Schwarzschild: 1
+        Kerr: 1
+        Kerr geometry: 1
+        black hole evaporation: 1
 
 # 通知の閾値
 score_threshold: 0
